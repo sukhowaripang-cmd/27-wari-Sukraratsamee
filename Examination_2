@@ -9,3 +9,5 @@
 # เขียนโค้ดต่อจากนี้
 price = float(input())
 discount = float(input())
+net = price-discount
+print (net)
